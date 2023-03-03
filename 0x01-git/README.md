@@ -1,1 +1,1 @@
-my first directory
+Attempting commit with message
